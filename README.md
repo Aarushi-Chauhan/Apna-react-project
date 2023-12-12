@@ -1,4 +1,4 @@
 # Apna-react-project
-my first git repository
+my first git repository.
 <br>
-author- xyz
+author- xyz(react)
